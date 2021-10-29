@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ritik Nandwal. I combine data science and developer advocacy in my work. I also like to write articles focussed on Data Science and Software development.
+I am Ritik Nandwal. I combine data science and developer advocacy in my work.
 
 ### Connect with me
 * [Linkedin](https://www.linkedin.com/in/nandwalritik/)
