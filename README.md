@@ -6,3 +6,6 @@ I am On a adventurous journey to bring whatever I see in my dreams to Real World
 ### Connect with me
 * [Linkedin](https://www.linkedin.com/in/nandwalritik/)
 * [Website](https://nandwalritik.github.io/Portfolio/#/)
+
+### Open for Project Collaborations
+* Directly Reach Me on [Telegram](https://t.me/the_frustrated_engineer)
