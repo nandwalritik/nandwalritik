@@ -1,10 +1,14 @@
 name: generate animation
 
+# on:
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: "0 */24 * * *" # every 24 hours
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */24 * * *" # every 24 hours
-
+  push:
+    branches:
+      - main
+      
 jobs:
   generate:
     runs-on: ubuntu-latest
