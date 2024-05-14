@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I combine data science and developer advocacy in my work.
-An Engineer, on an adventurous journey !!!
   
 <a href="https://github.com/nandwalritik"><img src="https://komarev.com/ghpvc/?username=nandwalritik" alt="nandwalritik" /></a>
 
